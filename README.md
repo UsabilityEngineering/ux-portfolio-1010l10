@@ -5,4 +5,4 @@
 
 
 ## UX Journal
-
+journal number 1 
