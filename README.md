@@ -4,5 +4,5 @@
 ## UX Team Project
 
 
-## UX Journal
-## Journal 1 
+## UX Journal 1 
+
