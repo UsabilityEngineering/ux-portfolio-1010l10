@@ -8,4 +8,3 @@
 [Journal 1 .pdf](https://github.com/UsabilityEngineering/ux-portfolio-1010l10/files/6111463/Journal.1.pdf)
 
 ## UX Journal 2
-[Journal 2.pdf]
